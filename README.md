@@ -8,7 +8,7 @@ Me especializo en construir aplicaciones completas (frontend + backend + base de
 ---
 
 ## 🧠 Sobre mí
-- 💻 Experiencia construyendo aplicaciones con arquitectura moderna (T3 Stack)
+- 💻 Experiencia construyendo aplicaciones con arquitectura moderna
 - ⚡ Enfocado en performance, escalabilidad y buenas prácticas
 - 🧩 Interesado en sistemas empresariales (gestión, inventario, documentos, etc.)
 - 📈 Buscando crecer como Full Stack Developer en entornos profesionales
@@ -21,12 +21,10 @@ Me especializo en construir aplicaciones completas (frontend + backend + base de
 - Next.js (App Router)
 - React + TypeScript
 - Tailwind CSS + shadcn/ui
-- TanStack Table
 
 ### Backend
 - tRPC (API typesafe)
 - NextAuth (autenticación)
-- FastAPI (microservicios)
 
 ### Base de datos
 - PostgreSQL (Supabase)
@@ -36,25 +34,21 @@ Me especializo en construir aplicaciones completas (frontend + backend + base de
 ### Infraestructura
 - Vercel (deploy)
 - Supabase (DB, Auth, Storage, Realtime)
-- Render (microservicios)
-
----
+- Render (deploy)
 
 ## 🛠️ Tecnologías adicionales
 - Angular
 - Spring Boot
 - Laravel
 - Git & GitHub
-
+- FastApi
 ---
 
 ## 📂 Proyectos destacados
 🚧 Actualmente trabajando en:
 - Sistema de gestión de proyectos (SaaS)
-- Módulo de gestión de documentos
+- Módulo de gestión
 - Sistema de inventario y activos
-
-*(Próximamente subiré demos y repos públicos)*
 
 ---
 
