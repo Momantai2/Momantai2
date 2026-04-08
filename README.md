@@ -1,45 +1,68 @@
 # 👋 Hola, soy Jeremy Gonzales  
 
-Actualmente soy **estudiante de Ingeniería de Sistemas** con interés en convertirme en **Desarrollador Full Stack**.  
-Me apasiona el desarrollo web y estoy aprendiendo y practicando constantemente nuevas tecnologías.  
+🚀 Desarrollador Full Stack en formación | Enfocado en aplicaciones web modernas y escalables  
+
+Soy estudiante de Ingeniería de Sistemas y actualmente trabajo desarrollando soluciones web reales.  
+Me especializo en construir aplicaciones completas (frontend + backend + base de datos) usando tecnologías modernas.
 
 ---
 
-## Sobre mí
-- Estoy aprendiendo lenguajes como **PHP, Java, HTML, CSS, JavaScript y TypeScript**.  
-- He trabajado con frameworks como **Spring Boot, Laravel y Angular**.  
-- Mi objetivo es crecer como **Full Stack Developer**, desarrollando aplicaciones completas y escalables.  
-- Me gusta explorar buenas prácticas de programación y arquitecturas modernas.  
+## 🧠 Sobre mí
+- 💻 Experiencia construyendo aplicaciones con arquitectura moderna (T3 Stack)
+- ⚡ Enfocado en performance, escalabilidad y buenas prácticas
+- 🧩 Interesado en sistemas empresariales (gestión, inventario, documentos, etc.)
+- 📈 Buscando crecer como Full Stack Developer en entornos profesionales
 
 ---
 
-## Tecnologías y herramientas
+## 🚀 Stack principal (Actual)
 
-### Lenguajes  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+### Frontend
+- Next.js (App Router)
+- React + TypeScript
+- Tailwind CSS + shadcn/ui
+- TanStack Table
 
-### Frameworks & Librerías  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+### Backend
+- tRPC (API typesafe)
+- NextAuth (autenticación)
+- FastAPI (microservicios)
 
-### Herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
+### Base de datos
+- PostgreSQL (Supabase)
+- Prisma ORM / Drizzle ORM
+- Row Level Security (RLS)
 
----
-##  Conecta conmigo
--  [Linkedin](https://www.linkedin.com/in/jeremy-gonzales-mendoza-9544702b4/) 
-- ✉️ jeremygon456@gmail.com
+### Infraestructura
+- Vercel (deploy)
+- Supabase (DB, Auth, Storage, Realtime)
+- Render (microservicios)
 
 ---
- *Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos de desarrollo web y aprender de la comunidad.* 
 
+## 🛠️ Tecnologías adicionales
+- Angular
+- Spring Boot
+- Laravel
+- Git & GitHub
 
+---
+
+## 📂 Proyectos destacados
+🚧 Actualmente trabajando en:
+- Sistema de gestión de proyectos (SaaS)
+- Módulo de gestión de documentos
+- Sistema de inventario y activos
+
+*(Próximamente subiré demos y repos públicos)*
+
+---
+
+## 🌐 Contacto
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeremy-gonzales-mendoza-9544702b4/
+- ✉️ Email: jeremygon456@gmail.com
+
+---
+
+## ⚡ Frase
+_"Construyo sistemas que convierten datos en decisiones."_
