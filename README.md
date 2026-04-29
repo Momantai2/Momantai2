@@ -85,7 +85,3 @@ Sistema modular empresarial con:
 
 ---
 
-## ⚡ Filosofía
-
-> No solo construyo interfaces.  
-> Construyo sistemas que ayudan a tomar mejores decisiones.
